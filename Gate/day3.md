@@ -14,3 +14,4 @@
                 count-=1
         return element
     ```
+    <strong>Trick here is if count==0 is separate case, element ==nums[I] is separate , both can't came in same if block</strong>
