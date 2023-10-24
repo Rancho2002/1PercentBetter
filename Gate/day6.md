@@ -15,5 +15,6 @@
         if current_sum==k:
             max_len=max(max_len,right-left+1)
             
-    return max_len```
+    return max_len
+    ```
   - The use of two pointer is best, if found targetted sum, right-left +1 , +1 because 0 based indexing
