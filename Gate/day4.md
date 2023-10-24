@@ -1,5 +1,5 @@
 * Learn about wait-flow-graph to check deadlock for single instance
-* Solved the array question Maximum Subarray
+* Solved the array question Maximum sum Subarray(kadane)
     
   ```
   class Solution:
